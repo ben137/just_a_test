@@ -25,7 +25,7 @@
         </thead>
         <tbody>
             <?php
-            include("functions/connection.php");
+            include("functions/connections.php");
 
             // Read all row from the database
 
